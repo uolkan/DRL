@@ -31,7 +31,10 @@ The task is episodic, and in order to solve the environment, the agent must
 get an average score of +13 over 100 consecutive episodes.
 
 # Getting Started
-First create an environment from [Environment](./environment.yml) then follow the instructions.
+After downloading the project files; 
+
+1- First create an environment from [Environment](./environment.yml) then follow the instructions. 
+2- Then download the Banana.app zip file and unzip it. 
 
 # Instructions
 To train the agent, start jupyter notebook, open `NavigationProject.ipynb`
