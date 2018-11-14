@@ -1,5 +1,3 @@
-[//]: # (Image References)
-
 # About this project
 
 
@@ -33,7 +31,7 @@ The task is episodic, and in order to solve the environment, the agent must
 get an average score of +13 over 100 consecutive episodes.
 
 # Getting Started
-First create an environment from [Environment](./environment.yaml) then follow the instructions.
+First create an environment from [Environment](./environment.yml) then follow the instructions.
 
 # Instructions
 To train the agent, start jupyter notebook, open `NavigationProject.ipynb`
