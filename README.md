@@ -1,13 +1,11 @@
 # About this project
 
-
 This repository of DeepRL source code is work of 1st "Project" in 
 **[Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)**
 The project goal is to implement smart agent walking around game simulator (using DQN algorithm)
 which is created by using Unity ML-Agents([github repository](https://github.com/Unity-Technologies/ml-agents))
 
 # Project Details
-![Trained Agent][image1]
 
 In the simulator, there are two types of bananas, yellow ones and blue ones.
 If he catches yellow one, he gets positive reward (+1). But if he catches blue one,
