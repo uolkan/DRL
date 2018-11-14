@@ -40,7 +40,7 @@ and execute! For more information, please check instructions
 inside the notebook.
 
 # Additional informations
-- [Report](./Report.pdf) : Result report of training score
+- [Report](./Reportv1.pdf) : Result report of training score
 when using Double-DQN as agent.
 
 You can watch the training agent and trained agent videos at below links; 
